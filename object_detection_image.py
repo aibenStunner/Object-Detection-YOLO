@@ -1,7 +1,7 @@
 __author__='8.Ball'
 
 # USAGE
-# python object_detection_image.py --image images/baggage_claim.jpg --yolo YOLOV3
+# python object_detection_image.py --image <PATH_TO_IMAGE> --yolo YOLOV3
 
 # import the necessary packages
 import numpy as np
