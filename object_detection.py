@@ -1,7 +1,7 @@
 __author_='8.Ball'
 
 #USAGE
-#python object_detection.py --yolo YoloV3
+#python object_detection.py --yolo YOLOV3
 
 from imutils.video import VideoStream
 import numpy as np
